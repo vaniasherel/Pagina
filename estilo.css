@@ -1,0 +1,153 @@
+
+
+
+.logo {
+    max-width: 100px;
+    height: auto;
+    float: left;
+    display:block;
+    margin-top: 1px;
+}
+
+.dropdown-content {
+    
+    position: relative;
+    padding-bottom: 3px;
+    margin-top: 15px;
+}
+
+h1, h2, h3, h4, h5, h6, body, ul, ol, li, section {
+    text-align: center;
+}
+
+body {
+    
+    background: radial-gradient( #92eca3, #f5d0f4);
+    color: rgb(241, 235, 235);
+    font-family: "Freeman", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+
+h1, p {
+    color:rgb(173, 17, 5);
+    text-transform: uppercase;
+    margin-top: 1em;
+    font-size: 4em;
+      }
+      
+h2 {
+    color:rgb(148, 62, 153); 
+    text-align: center;
+    text-emphasis: "❤️‍🔥" rgb(238, 7, 184);
+    font-size: 3em;
+}
+
+h3 {
+    color:rgb(95, 23, 73); 
+    font-size: 2em;
+}
+
+h5 {
+    color:rgb(78, 43, 2); 
+    font-size: 1em;
+}
+
+ul {
+    list-style: none;
+    padding: 1em;
+    margin-top: 1em;
+    margin-left: 5 em;
+}
+
+ul li {
+    display:run-in;
+    margin-right: 2em;
+    margin-bottom:  1em;
+    font-size: 1.5em;
+}
+
+.img1 {
+    max-width: 100%;
+    height: auto;
+    border-style:solid;
+    border-width: 5px;
+    border-color: rgb(166, 54, 54);
+    padding: 10px;
+}
+
+.img2 {
+    max-width: 2000px;
+    height: 1000px;
+    border-style:solid;
+    border-width: 10px;
+    border-color: rgb(54, 166, 108);
+    margin: 10px;
+    align-content: center;
+}
+
+.img3 {
+    max-width: auto;
+    height: auto;
+    border-style:solid;
+    border-width: 10px;
+    border-color: rgb(166, 54, 160);
+    margin: 10px;
+}
+
+a {
+    color: chocolate;
+}
+
+footer {
+    text-align: center;
+    height: 2px;
+    margin: 100px;
+}
+
+aside { 
+    float:none;
+    width:500px;
+    font-size:xx-large;
+    margin-right: auto; 
+    border-style:dashed;
+    border-color: rgb(255, 0, 0);
+    position:initial;
+    top: 10px;
+    bottom: 5px;
+}
+
+iframe {
+    margin: 1em 0;
+}
+
+.main-image {
+    background: url(
+        imagenes/giphy.gif);
+        background-position: left center ;
+        background-size: auto;
+        background-repeat: repeat;
+        width: 100%;
+        min-height: 0vh;
+        transform:perspective()
+}
+
+.main-image2 { 
+    background-image: url(imagenes/hdhc.gif);
+    background-position: left center;
+    background-size: auto;
+    background-repeat: repeat;
+    width: 100%;
+    min-width: 0vh;
+    min-height: 0vh;
+} 
+
+.main-image3 { 
+    background-image: url(imagenes/jenna\ and\ mat.gif);
+    background-position: left center;
+    background-size: auto;
+    background-repeat: repeat;
+    width: 100%;
+    min-width: 0vh;
+    min-height: 0vh;
+}
